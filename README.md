@@ -3,7 +3,12 @@
 - 🔭 I’m currently Pursuing a B.S. in Computer 
 - 🌱 I’m currently attending Cal State University, Fullerton
 - 👯 I’m looking to collaborate with startups and on open sources
-- 📫 How to reach me: ...
+
+## Reach me
+  <a href = "mailto:hsirusaf@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/hamid-suha-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
+<br>
 
  <div>
   <a href="https://github.com/midsu">
