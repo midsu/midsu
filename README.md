@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"></a> Hi there I'm Hamid aka midsu
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"></a> Hi there I'm Hamid 
 
 
 - 🔭 I’m currently Pursuing a B.S. in Computer 
@@ -41,6 +41,10 @@
 </div>
 </details>
 <br>
+
+#### E-BusinessCard
+- :paperclip: [My Resume/CV](link...)
+- :email: hsirusaf@gmail.com  
 
 𝗩𝗶𝘀𝗶𝘁𝗼𝗿𝘀
 
