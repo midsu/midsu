@@ -5,12 +5,17 @@
 - 👯 I’m looking to collaborate with startups and on open sources
 - 📫 How to reach me: ...
 
-[![Linkedin Badge](https://img.shields.io/badge/-HamidSuha-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/hamid-suha/)](https://www.linkedin.com/in/hamid-suha/) [![Gmail Badge](https://img.shields.io/badge/-hsirusaf-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hsirusaf@gmail.com)](mailto:hsirusaf@gmail.com) 
-
-## Programming Languages
-<img src = 'https://github.com/midsu/midsu/blob/master/images/c-original.svg' width='30'/> <img src = />
-<img src = 'https://github.com/midsu/midsu/blob/master/images/cpp.svg' width='30'/> <img src = />
-<img src = 'https://github.com/midsu/midsu/blob/master/images/python2.png' height='30'/>  <img src = />
-<img src = 'https://github.com/midsu/midsu/blob/master/images/html.svg' width='30'/> <img src = />
-<img src = 'https://github.com/midsu/midsu/blob/master/images/css.svg' width='30'/> <img src = />
-<img src = 'https://github.com/midsu/midsu/blob/master/images/js.svg' width='30'/> <img src = />
+ <div>
+  <a href="https://github.com/midsu">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=midsu&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=midsu&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+<div style="display: inline_block"><br>
+  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="right" alt="Rafa-yoda" src="https://cdn.discordapp.com/attachments/795358919417397249/825430589581688872/hi.gif">
+</div>
