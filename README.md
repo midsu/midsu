@@ -45,6 +45,3 @@
 - :paperclip: [My Resume/CV](link...)
 - :email: hsirusaf@gmail.com  
 
-𝗩𝗶𝘀𝗶𝘁𝗼𝗿𝘀
-
-[![Visits Badge](https://badges.pufler.dev/visits/puf17640/git-badges)](https://badges.pufler.dev)
