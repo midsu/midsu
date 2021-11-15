@@ -43,5 +43,5 @@
 
 #### E-BusinessCard
 - :paperclip: [My Resume/CV](link...)
-- :email: hsirusaf@gmail.com  
+- :email: hsuha@csu.fullertonl.edu  
 
