@@ -11,7 +11,6 @@
   <a href="mailto:hsirusaf@gmail.com?subject=Hello%20Ileri,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=midsu&layout=compact)](https://github.com/midsuh/github-readme-stats)
 
 <summary><b>Technologies</b></summary> 
 
@@ -29,6 +28,7 @@
 
 ![Mac OS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badg&logo=macos&logoColor=F0F0F0) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badg&logo=windows&logoColor=white)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=midsu&layout=compact)](https://github.com/midsuh/github-readme-stats)
 
 <details>
   <summary><b>Stats</b></summary>
