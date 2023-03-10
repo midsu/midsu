@@ -40,6 +40,11 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=midsu&layout=compact)](https://github.com/midsuh/github-readme-stats)
 
+
+#### E-BusinessCard
+- :paperclip: [My Resume/CV](link...)
+- :email: hsuha@csu.fullerton.edu  
+
 <details>
   <summary><b>Stats</b></summary>
 
@@ -50,8 +55,4 @@
 </div>
 </details>
 <br>
-
-#### E-BusinessCard
-- :paperclip: [My Resume/CV](link...)
-- :email: hsuha@csu.fullerton.edu  
 
