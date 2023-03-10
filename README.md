@@ -5,11 +5,11 @@
 - 🌱 I’m attending Cal State University, Fullerton
 
 - Projects
--[]MPI-Parallelized-NLP
--[]Bernstein-s-conditions-for-Data-Dependencies
--[]Dynamic vs. Exhaustive algorithm optimization
--[]Clustering a Sensor network using NIC addresses
--[]Container ship and seaport good transportation problem, "Drayage"
+-![]MPI-Parallelized-NLP
+-![]Bernstein-s-conditions-for-Data-Dependencies
+-![]Dynamic vs. Exhaustive algorithm optimization
+-![]Clustering a Sensor network using NIC addresses
+-![]Container ship and seaport good transportation problem, "Drayage"
 
 📫 Reach me on
 <p align="left">
