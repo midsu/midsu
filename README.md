@@ -11,8 +11,6 @@
 - [ ] Clustering a Sensor network using NIC addresses
 - [ ] Container ship and seaport good transportation problem, "Drayage"
 
-- [ ] two separate algorithms
-
 📫 Reach me on
 <p align="left">
   <a target="_blank"href="https://www.linkedin.com/in/hamid-suha/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
