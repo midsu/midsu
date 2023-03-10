@@ -13,12 +13,6 @@
 - [Clustering a Sensor network using NIC addresses](https://github.com/midsu/Algorithm_CPSC_335/tree/main/Project-3)
 - [Container ship and seaport good transportation problem, "Drayage"](https://github.com/midsu/Algorithm_CPSC_335/blob/main/Project-2/Project%202%20Requirements%20335.01%20(1).pdf)
 
-📫 Reach me on
-<p align="left">
-  <a target="_blank"href="https://www.linkedin.com/in/hamid-suha/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:hsirusaf@gmail.com?subject=Hello%20Ileri,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-</p>
-
 
 <summary><b>Technologies</b></summary> 
 
@@ -40,6 +34,12 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=midsu&layout=compact)](https://github.com/midsuh/github-readme-stats)
 
+
+📫 Reach me on
+<p align="left">
+  <a target="_blank"href="https://www.linkedin.com/in/hamid-suha/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:hsirusaf@gmail.com?subject=Hello%20Ileri,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
 
 #### E-BusinessCard
 - :paperclip: [My Resume/CV](link...)
