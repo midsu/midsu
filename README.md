@@ -8,7 +8,7 @@
 
 - MPI-Parallelized-NLP
 - Vaccination rate
-- Bernstein-s-conditions-for-Data-Dependencies
+- [Bernstein-s-conditions-for-Data-Dependencies](https://github.com/midsu/Bernstein-s-conditions-for-Data-Dependencies)
 - Dynamic vs. Exhaustive algorithm optimization
 - Clustering a Sensor network using NIC addresses
 - Container ship and seaport good transportation problem, "Drayage"
