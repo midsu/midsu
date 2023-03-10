@@ -7,6 +7,7 @@
 <summary><b>Projects</b></summary> 
 
 - MPI-Parallelized-NLP
+- Vaccination rate
 - Bernstein-s-conditions-for-Data-Dependencies
 - Dynamic vs. Exhaustive algorithm optimization
 - Clustering a Sensor network using NIC addresses
