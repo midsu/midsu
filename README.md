@@ -4,7 +4,7 @@
 - 🔭 Pursuing a B.S. in Computer Science
 - 🌱 I’m attending Cal State University, Fullerton
 
-- Projects
+Projects
 -![]MPI-Parallelized-NLP
 -![]Bernstein-s-conditions-for-Data-Dependencies
 -![]Dynamic vs. Exhaustive algorithm optimization
