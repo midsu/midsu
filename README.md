@@ -4,6 +4,13 @@
 - 🔭 Pursuing a B.S. in Computer Science
 - 🌱 I’m attending Cal State University, Fullerton
 
+<b></b>
+<summary><b>Interview Prep</b></summary> 
+
+- [Leetcodes](https://github.com/midsu/NeetcodeInterviewPrep)
+
+<b></b>
+
 <summary><b>Projects</b></summary> 
 
 - [MPI-Parallelized-NLP](https://github.com/midsu/MPI-Parallelized-NLP)
@@ -14,11 +21,6 @@
 - [Container ship and seaport good transportation problem, "Drayage"](https://github.com/midsu/Algorithm_CPSC_335/blob/main/Project-2/Project%202%20Requirements%20335.01%20(1).pdf)
 - [Pairs trading - summer research intern](https://github.com/midsu/Pairs_Trading)
 
-<summary><b>Interview Prep</b></summary> 
-
-- [Leetcodes](https://github.com/midsu/NeetcodeInterviewPrep)
-
-<b></b>
 
 <summary><b>Technologies</b></summary> 
 
