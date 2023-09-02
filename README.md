@@ -21,6 +21,13 @@
 - [Container ship and seaport good transportation problem, "Drayage"](https://github.com/midsu/Algorithm_CPSC_335/blob/main/Project-2/Project%202%20Requirements%20335.01%20(1).pdf)
 - [Pairs trading - summer research intern](https://github.com/midsu/Pairs_Trading)
 
+<b></b>
+
+<summary><b>Upcoming Projects</b></summary> 
+- Stock Prediction
+- Poker Hand Rank
+- X
+
 
 <summary><b>Technologies</b></summary> 
 
