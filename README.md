@@ -23,7 +23,7 @@
 
 <b></b>
 <summary><b>Upcoming Projects</b></summary> 
-- [Stock Prediction]
+- Stock Prediction
 - Poker Hand Rank
 - X
 
