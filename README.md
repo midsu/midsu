@@ -22,9 +22,8 @@
 - [Pairs trading - summer research intern](https://github.com/midsu/Pairs_Trading)
 
 <b></b>
-
 <summary><b>Upcoming Projects</b></summary> 
-- Stock Prediction
+- [Stock Prediction]
 - Poker Hand Rank
 - X
 
