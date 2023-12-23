@@ -23,9 +23,11 @@
 
 <b></b>
 <summary><b>Upcoming Projects</b></summary> 
-- Stock Prediction
+- CandleVision
+
 - Poker Hand Rank
-- X
+  
+- ...
 
 <b></b>
 
