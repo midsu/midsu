@@ -23,8 +23,8 @@
 
 <b></b>
 <summary><b>Upcoming Projects</b></summary> 
-- CandleVision, 
-- Poker Hand Rank,
+- CandleVision
+- Poker Hand Rank
 - ...
 
 <b></b>
