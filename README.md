@@ -21,9 +21,9 @@
 
 <summary><b>:eyes: Projects</b></summary> 
 
-- [PrivateLens]
+- [PrivateLens](https://github.com/midsu/PrivateLens)
 - [CandleVision](https://github.com/midsu/CandleVision-)
-- [PokerHandRank]
+- [PokerHandRank](https://github.com/midsu/PokerHandRank)
 - [MPI-Parallelized-NLP](https://github.com/midsu/MPI-Parallelized-NLP)
 - [Vaccination rate](https://github.com/midsu/vaccinationRate)
 - [Bernstein-s-conditions-for-Data-Dependencies](https://github.com/midsu/Bernstein-s-conditions-for-Data-Dependencies)
