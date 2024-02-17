@@ -11,14 +11,14 @@
 
 <b></b>
 
-<summary><b> :information_desk_person: Upcoming Projects</b></summary> 
+<summary><b>:construction_worker: Upcoming Projects</b></summary> 
 - CandleVision
 - Private Lens
 - Poker Hand Rank
 
 <b></b>
 
-<summary><b>Projects</b></summary> 
+<summary><b>:eyes: Projects</b></summary> 
 
 - [PrivateLens]
 - [CandleVision](https://github.com/midsu/CandleVision-)
