@@ -11,7 +11,12 @@
 
 <b></b>
 
+<summary><b>Upcoming Projects</b></summary> 
+- CandleVision
+- Private Lens
+- Poker Hand Rank
 <summary><b>Projects</b></summary> 
+<b></b>
 
 - [PrivateLens]
 - [CandleVision](https://github.com/midsu/CandleVision-)
@@ -23,12 +28,6 @@
 - [Clustering a Sensor network using NIC addresses](https://github.com/midsu/Algorithm_CPSC_335/tree/main/Project-3)
 - [Container ship and seaport good transportation problem, "Drayage"](https://github.com/midsu/Algorithm_CPSC_335/blob/main/Project-2/Project%202%20Requirements%20335.01%20(1).pdf)
 - [Pairs trading - summer research intern](https://github.com/midsu/Pairs_Trading)
-
-<b></b>
-<summary><b>Upcoming Projects</b></summary> 
-- CandleVision
-- Private Lens
-- Poker Hand Rank
 
 
 <b></b>
