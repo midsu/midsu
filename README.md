@@ -11,11 +11,12 @@
 
 <b></b>
 
-<summary><b>Upcoming Projects</b></summary> 
+<summary><b> :information_desk_person: Upcoming Projects</b></summary> 
 - CandleVision
 - Private Lens
 - Poker Hand Rank
 <summary><b>Projects</b></summary> 
+
 <b></b>
 
 - [PrivateLens]
