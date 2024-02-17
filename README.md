@@ -5,20 +5,20 @@
 - 🌱 I’m attending Cal State University, Fullerton
 
 <b></b>
-<summary><b>Interview Prep:see_no_evil: </b></summary> 
+<summary><b>Interview Prep :see_no_evil: </b></summary> 
 
 - [Leetcodes](https://github.com/midsu/NeetcodeInterviewPrep)
 
 <b></b>
 
-<summary><b>Upcoming Projects:construction_worker: </b></summary> 
+<summary><b>Upcoming Projects :construction_worker: </b></summary> 
 - CandleVision
 - Private Lens
 - Poker Hand Rank
 
 <b></b>
 
-<summary><b>Projects:eyes: </b></summary> 
+<summary><b>Projects :eyes: </b></summary> 
 
 - [PrivateLens]
 - [CandleVision](https://github.com/midsu/CandleVision-)
