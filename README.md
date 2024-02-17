@@ -15,9 +15,9 @@
 - CandleVision
 - Private Lens
 - Poker Hand Rank
-<summary><b>Projects</b></summary> 
-
 <b></b>
+
+<summary><b>Projects</b></summary> 
 
 - [PrivateLens]
 - [CandleVision](https://github.com/midsu/CandleVision-)
