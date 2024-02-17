@@ -5,7 +5,7 @@
 - 🌱 I’m attending Cal State University, Fullerton
 
 <b></b>
-<summary><b>Interview Prep</b></summary> 
+<summary><b>:see_no_evil: Interview Prep</b></summary> 
 
 - [Leetcodes](https://github.com/midsu/NeetcodeInterviewPrep)
 
