@@ -21,16 +21,16 @@
 
 <summary><b>:eyes: Projects</b></summary> 
 
-- [PrivateLens](https://github.com/midsu/PrivateLens)
-- [CandleVision](https://github.com/midsu/CandleVision-)
-- [PokerHandRank](https://github.com/midsu/PokerHandRank)
-- [MPI-Parallelized-NLP](https://github.com/midsu/MPI-Parallelized-NLP)
-- [Vaccination rate](https://github.com/midsu/vaccinationRate)
-- [Bernstein-s-conditions-for-Data-Dependencies](https://github.com/midsu/Bernstein-s-conditions-for-Data-Dependencies)
-- [Dynamic vs. Exhaustive algorithm optimization](https://github.com/midsu/Algorithm_CPSC_335)
-- [Clustering a Sensor network using NIC addresses](https://github.com/midsu/Algorithm_CPSC_335/tree/main/Project-3)
-- [Container ship and seaport good transportation problem, "Drayage"](https://github.com/midsu/Algorithm_CPSC_335/blob/main/Project-2/Project%202%20Requirements%20335.01%20(1).pdf)
-- [Pairs trading - summer research intern](https://github.com/midsu/Pairs_Trading)
+- [] [PrivateLens](https://github.com/midsu/PrivateLens)
+- [] [CandleVision](https://github.com/midsu/CandleVision-)
+- [] [PokerHandRank](https://github.com/midsu/PokerHandRank)
+- [x] [MPI-Parallelized-NLP](https://github.com/midsu/MPI-Parallelized-NLP)
+- [x] [Vaccination rate](https://github.com/midsu/vaccinationRate)
+- [x] [Bernstein-s-conditions-for-Data-Dependencies](https://github.com/midsu/Bernstein-s-conditions-for-Data-Dependencies)
+- [x] [Dynamic vs. Exhaustive algorithm optimization](https://github.com/midsu/Algorithm_CPSC_335)
+- [x] [Clustering a Sensor network using NIC addresses](https://github.com/midsu/Algorithm_CPSC_335/tree/main/Project-3)
+- [x] [Container ship and seaport good transportation problem, "Drayage"](https://github.com/midsu/Algorithm_CPSC_335/blob/main/Project-2/Project%202%20Requirements%20335.01%20(1).pdf)
+- [x] [Pairs trading - summer research intern](https://github.com/midsu/Pairs_Trading)
 
 
 <b></b>
