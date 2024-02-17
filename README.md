@@ -5,13 +5,13 @@
 - 🌱 I’m attending Cal State University, Fullerton
 
 <b></b>
-<summary><b>Interview Prep :see_no_evil: </b></summary> 
+<summary><b>:see_no_evil: Interview Prep</b></summary> 
 
 - [Leetcodes](https://github.com/midsu/NeetcodeInterviewPrep)
 
 <b></b>
 
-<summary><b>Upcoming Projects :construction_worker: </b></summary> 
+<summary><b>:construction_worker: Upcoming Projects </b></summary> 
 
 - CandleVision
 - Private Lens
@@ -19,7 +19,7 @@
 
 <b></b>
 
-<summary><b>Projects :eyes: </b></summary> 
+<summary><b>:eyes: Projects</b></summary> 
 
 - [PrivateLens]
 - [CandleVision](https://github.com/midsu/CandleVision-)
