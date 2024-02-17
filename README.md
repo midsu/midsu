@@ -14,9 +14,7 @@
 <summary><b>Upcoming Projects :construction_worker: </b></summary> 
 
 - CandleVision
-
 - Private Lens
-  
 - Poker Hand Rank
 
 <b></b>
