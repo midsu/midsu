@@ -13,6 +13,8 @@
 
 <summary><b>Projects</b></summary> 
 
+- [PrivateLens]
+- [CandleVision](https://github.com/midsu/CandleVision-)
 - [MPI-Parallelized-NLP](https://github.com/midsu/MPI-Parallelized-NLP)
 - [Vaccination rate](https://github.com/midsu/vaccinationRate)
 - [Bernstein-s-conditions-for-Data-Dependencies](https://github.com/midsu/Bernstein-s-conditions-for-Data-Dependencies)
